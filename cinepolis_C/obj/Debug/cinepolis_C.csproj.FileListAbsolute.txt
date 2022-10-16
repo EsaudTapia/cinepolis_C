@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\bin\Debug\cinepolis_C.exe.config
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\bin\Debug\cinepolis_C.exe
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\bin\Debug\cinepolis_C.pdb
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\obj\Debug\cinepolis_C.Form1.resources
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\obj\Debug\cinepolis_C.Properties.Resources.resources
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\obj\Debug\cinepolis_C.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\obj\Debug\cinepolis_C.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\obj\Debug\cinepolis_C.exe
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\obj\Debug\cinepolis_C.pdb
+C:\Users\franc\source\repos\cinepolis_C\cinepolis_C\obj\Debug\cinepolis_C.csproj.AssemblyReference.cache
